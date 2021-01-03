@@ -110,4 +110,13 @@ body{
     .cover{
         height: 100vh;
     }
+    .team img{
+        height: 400px;
+    }
+    .cover3 {
+        background-color: white;
+    }
+    .cover2{
+        background: linear-gradient(to right ,rgba(22, 22, 22, 1) 10%, rgba(22, 22, 22, 0)100%);
+    }
 }
